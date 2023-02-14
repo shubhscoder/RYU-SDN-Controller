@@ -1,0 +1,10 @@
+{
+    "server" : "h4",
+    "client" : "h1",
+    "server_ip": "10.0.0.4",
+    "server_port": "5004",
+    "tests" : [
+        {"begin" : 10, "end": 76, "bandwidth": 150},
+        {"begin" : 76, "end": 89, "bandwidth": 150}
+       ]
+}
